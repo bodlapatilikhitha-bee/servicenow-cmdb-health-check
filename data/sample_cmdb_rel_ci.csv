@@ -1,0 +1,142 @@
+sys_id,parent,child,type
+rel0001,svc001,ci0037,Depends on::Used by
+rel0002,svc001,ci0055,Depends on::Used by
+rel0003,svc001,ci0090,Depends on::Used by
+rel0004,svc002,ci0094,Depends on::Used by
+rel0005,svc002,ci0101,Depends on::Used by
+rel0006,svc002,ci0072,Depends on::Used by
+rel0007,svc003,ci0085,Depends on::Used by
+rel0008,svc003,ci0092,Depends on::Used by
+rel0009,svc003,ci0063,Depends on::Used by
+rel0010,svc004,ci0020,Depends on::Used by
+rel0011,svc004,ci0025,Depends on::Used by
+rel0012,svc004,ci0038,Depends on::Used by
+rel0013,svc005,ci0028,Depends on::Used by
+rel0014,svc005,ci0008,Depends on::Used by
+rel0015,svc005,ci0075,Depends on::Used by
+rel0016,svc006,ci0095,Depends on::Used by
+rel0017,svc006,ci0070,Depends on::Used by
+rel0018,svc006,ci0008,Depends on::Used by
+rel0019,svc007,ci0096,Depends on::Used by
+rel0020,svc007,ci0041,Depends on::Used by
+rel0021,svc007,ci0008,Depends on::Used by
+rel0022,svc008,ci0007,Depends on::Used by
+rel0023,svc008,ci0075,Depends on::Used by
+rel0024,svc008,ci0062,Depends on::Used by
+rel0025,ci0001,ci0066,Runs on::Runs
+rel0026,ci0002,ci0119,Runs on::Runs
+rel0027,ci0003,ci0111,Runs on::Runs
+rel0028,ci0004,ci0069,Runs on::Runs
+rel0029,ci0005,ci0022,Runs on::Runs
+rel0030,ci0006,ci0009,Runs on::Runs
+rel0031,ci0007,ci0067,Runs on::Runs
+rel0032,ci0008,ci0012,Runs on::Runs
+rel0033,ci0009,ci0110,Runs on::Runs
+rel0034,ci0010,ci0025,Runs on::Runs
+rel0035,ci0011,ci0009,Runs on::Runs
+rel0036,ci0012,ci0078,Runs on::Runs
+rel0037,ci0013,ci0009,Runs on::Runs
+rel0038,ci0014,ci0088,Runs on::Runs
+rel0039,ci0015,ci0112,Runs on::Runs
+rel0040,ci0016,ci0032,Runs on::Runs
+rel0041,ci0017,ci0053,Runs on::Runs
+rel0042,ci0018,ci0016,Runs on::Runs
+rel0043,ci0019,ci0115,Runs on::Runs
+rel0044,ci0020,ci0074,Runs on::Runs
+rel0045,ci0021,ci0033,Runs on::Runs
+rel0046,ci0022,ci0076,Runs on::Runs
+rel0047,ci0023,ci0078,Runs on::Runs
+rel0048,ci0024,ci0006,Runs on::Runs
+rel0049,ci0025,ci0081,Runs on::Runs
+rel0050,ci0026,ci0011,Runs on::Runs
+rel0051,ci0027,ci0055,Runs on::Runs
+rel0052,ci0028,ci0086,Runs on::Runs
+rel0053,ci0029,ci0076,Runs on::Runs
+rel0054,ci0030,ci0074,Runs on::Runs
+rel0055,ci0031,ci0068,Runs on::Runs
+rel0056,ci0032,ci0042,Runs on::Runs
+rel0057,ci0033,ci0035,Runs on::Runs
+rel0058,ci0034,ci0027,Runs on::Runs
+rel0059,ci0035,ci0087,Runs on::Runs
+rel0060,ci0036,ci0093,Runs on::Runs
+rel0061,ci0037,ci0042,Runs on::Runs
+rel0062,ci0038,ci0031,Runs on::Runs
+rel0063,ci0039,ci0034,Runs on::Runs
+rel0064,ci0040,ci0052,Runs on::Runs
+rel0065,ci0041,ci0017,Runs on::Runs
+rel0066,ci0042,ci0087,Runs on::Runs
+rel0067,ci0043,ci0084,Runs on::Runs
+rel0068,ci0044,ci0039,Runs on::Runs
+rel0069,ci0045,ci0060,Runs on::Runs
+rel0070,ci0046,ci0041,Runs on::Runs
+rel0071,ci0047,ci0120,Runs on::Runs
+rel0072,ci0048,ci0098,Runs on::Runs
+rel0073,ci0049,ci0010,Runs on::Runs
+rel0074,ci0050,ci0002,Runs on::Runs
+rel0075,ci0051,ci0060,Runs on::Runs
+rel0076,ci0052,ci0081,Runs on::Runs
+rel0077,ci0053,ci0074,Runs on::Runs
+rel0078,ci0054,ci0013,Runs on::Runs
+rel0079,ci0055,ci0010,Runs on::Runs
+rel0080,ci0056,ci0070,Runs on::Runs
+rel0081,ci0057,ci0028,Runs on::Runs
+rel0082,ci0058,ci0066,Runs on::Runs
+rel0083,ci0059,ci0034,Runs on::Runs
+rel0084,ci0060,ci0017,Runs on::Runs
+rel0085,ci0061,ci0045,Runs on::Runs
+rel0086,ci0062,ci0114,Runs on::Runs
+rel0087,ci0063,ci0009,Runs on::Runs
+rel0088,ci0064,ci0114,Runs on::Runs
+rel0089,ci0065,ci0032,Runs on::Runs
+rel0090,ci0066,ci0048,Runs on::Runs
+rel0091,ci0067,ci0037,Runs on::Runs
+rel0092,ci0068,ci0021,Runs on::Runs
+rel0093,ci0069,ci0057,Runs on::Runs
+rel0094,ci0070,ci0108,Runs on::Runs
+rel0095,ci0071,ci0070,Runs on::Runs
+rel0096,ci0072,ci0092,Runs on::Runs
+rel0097,ci0073,ci0039,Runs on::Runs
+rel0098,ci0074,ci0080,Runs on::Runs
+rel0099,ci0075,ci0105,Runs on::Runs
+rel0100,ci0076,ci0085,Runs on::Runs
+rel0101,ci0077,ci0068,Runs on::Runs
+rel0102,ci0078,ci0002,Runs on::Runs
+rel0103,ci0079,ci0087,Runs on::Runs
+rel0104,ci0080,ci0106,Runs on::Runs
+rel0105,ci0081,ci0071,Runs on::Runs
+rel0106,ci0082,ci0039,Runs on::Runs
+rel0107,ci0083,ci0086,Runs on::Runs
+rel0108,ci0084,ci0014,Runs on::Runs
+rel0109,ci0085,ci0114,Runs on::Runs
+rel0110,ci0086,ci0018,Runs on::Runs
+rel0111,ci0087,ci0034,Runs on::Runs
+rel0112,ci0088,ci0015,Runs on::Runs
+rel0113,ci0089,ci0115,Runs on::Runs
+rel0114,ci0090,ci0014,Runs on::Runs
+rel0115,ci0091,ci0097,Runs on::Runs
+rel0116,ci0092,ci0071,Runs on::Runs
+rel0117,ci0093,ci0020,Runs on::Runs
+rel0118,ci0094,ci0035,Runs on::Runs
+rel0119,ci0095,ci0037,Runs on::Runs
+rel0120,ci0096,ci0078,Runs on::Runs
+rel0121,ci0097,ci0027,Runs on::Runs
+rel0122,ci0098,ci0092,Runs on::Runs
+rel0123,ci0099,ci0044,Runs on::Runs
+rel0124,ci0100,ci0027,Runs on::Runs
+rel0125,ci0101,ci0088,Runs on::Runs
+rel0126,ci0102,ci0082,Runs on::Runs
+rel0127,ci0103,ci0111,Runs on::Runs
+rel0128,ci0104,ci0034,Runs on::Runs
+rel0129,ci0105,ci0065,Runs on::Runs
+rel0130,ci0106,ci0063,Runs on::Runs
+rel0131,ci0107,ci0033,Runs on::Runs
+rel0132,ci0108,ci0117,Runs on::Runs
+rel0133,ci0109,ci0118,Runs on::Runs
+rel0134,ci0110,ci0109,Runs on::Runs
+rel0135,ci0111,ci0007,Runs on::Runs
+rel0136,ci0112,ci0012,Runs on::Runs
+rel0137,ci0113,ci0082,Runs on::Runs
+rel0138,ci0114,ci0055,Runs on::Runs
+rel0139,ci0115,ci0107,Runs on::Runs
+rel0140,ci0116,ci0036,Runs on::Runs
+rel9999,svc001,ci9999,Depends on::Used by
