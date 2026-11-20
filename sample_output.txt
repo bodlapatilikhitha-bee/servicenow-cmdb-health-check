@@ -1,0 +1,9 @@
+CIs checked: 129
+Health score: 98.0 / 100
+  csdm_service_without_infra       1
+  dangling_relationship            1
+  duplicate_ci                     1
+  missing_required_fields          1
+  orphan_ci                        1
+  stale_ci                         1
+Findings written to findings.csv
